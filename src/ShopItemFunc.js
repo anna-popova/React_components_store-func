@@ -1,6 +1,4 @@
-function ShopItemFunc(props) {
-	const { item } = props;
-
+function ShopItemFunc({ item }) {
 	return (
 		<div className="main-content">
 			<h2>{item.brand}</h2>

@@ -1,4 +1,3 @@
-//import './App.css';
 import ShopItemFunc from "./ShopItemFunc";
 
 function App() {
